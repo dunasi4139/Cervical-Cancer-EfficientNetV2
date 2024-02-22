@@ -26,7 +26,8 @@ The dataset used for training and testing the model consists of X-Ray chest imag
 
 ## Architecture
 
-![Architecture Model](/Arsitektur Model.png)
+![Architecture Model](/Arsitektur_Model.png)
+
 
 <br>
 
